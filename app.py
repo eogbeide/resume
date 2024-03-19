@@ -124,7 +124,7 @@ st.write(
     """
 - ► Owned and managed AWS supply chain, finance and procurement end-to-end planning, including data pipeline, and analytics product strategy and delivery.
 - ► Led and oversaw quarterly business planning and review meetings with senior leaders across supply chain and finance organizations.
-- ► Defined, tracked and reported on AWS annual, quarterly and monthly supply chain and finance metrics
+- ► Defined, tracked and reported on AWS annual, quarterly and monthly supply chain and finance key metrics
 """
 )
 
