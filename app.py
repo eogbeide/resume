@@ -75,7 +75,7 @@ st.write(
 
 # --- EDUCATIONAL BACKGROUND ---
 st.write('\n')
-st.subheader("Qualifications")
+st.subheader("Educational Background")
 st.write(
     """
 - ✔️ Accelerated Executive Management, Yale School of Management, CT., United States.
