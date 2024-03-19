@@ -14,8 +14,9 @@ profile_pic = current_dir / "profile-pic.jpg"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Manny Ogbeide"
 PAGE_ICON = ":wave:"
-NAME = "Manny Ogbeide, B.Sc.(Hons), M.Sc., MBA",
-DESCRIPTION = """,
+NAME = "Manny Ogbeide, \n
+B.Sc.(Hons), M.Sc., MBA"
+DESCRIPTION = """
 - ✔️Snr. Technical Product Manager \n
 - ✔️Helping enterprises to tackle complex, ambiguous and cross-functional business problems & delivering 5-10X value through product and process leadership.
 """
