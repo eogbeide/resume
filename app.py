@@ -63,7 +63,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
 st.subheader("Experience & Qualifications")
-st.write("---")
+st.write("-")
 st.write(
     """
 - ✔️ Mid-level professional (consulting, cloud computing, energy and financial services)
@@ -77,7 +77,7 @@ st.write(
 # --- EDUCATIONAL BACKGROUND ---
 st.write('\n')
 st.subheader("Educational Background")
-st.write("---")
+st.write("-")
 st.write(
     """
 - ✔️ Accelerated Executive Management, Yale School of Management, CT., United States.
@@ -90,7 +90,7 @@ st.write(
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Technical Skills")
-st.write("---")
+st.write("-")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Alteryx
@@ -104,7 +104,7 @@ st.write(
 # --- WORK HISTORY ---
 st.write('\n')
 st.subheader("Relevant Experience")
-st.write("---")
+st.write("-")
 # --- JOB 1
 st.write("🚧", "**Snr. Technical Product Manager | Amazon**")
 st.write("Worldwide Science Product Team")
