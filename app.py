@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Manny Ogbeide"
 PAGE_ICON = ":wave:"
 NAME = "Emmanuel Ogbeide"
 DESCRIPTION = """
-Snr. Technical Product Manager 
+Snr. Technical Product Manager \n
 Helping enterprises to tackle complex, ambiguous, cross-functional business problems and delivering 5-10X value through product and process leadership.
 """
 EMAIL = "eogbeide@asu.edu"
