@@ -18,7 +18,7 @@ initial_sidebar_state="expanded"
 NAME = "Manny Ogbeide"
 DESCRIPTION = """
 - ✔️Snr. Technical Product Manager \n
-- ✔️Helping enterprises to tackle complex, ambiguous and cross-functional business problems \n & delivering 5-10X value through product and process leadership.
+- ✔️Helping enterprises to tackle complex, ambiguous and cross-functional business problems & delivering 5-10X value through product and process leadership.
 """
 EMAIL = "eogbeide@asu.edu"
 
