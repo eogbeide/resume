@@ -14,6 +14,8 @@ profile_pic = current_dir / "profile-pic.jpg"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Manny Ogbeide"
 PAGE_ICON = ":wave:"
+layout="wide"
+initial_sidebar_state="expanded"
 NAME = "Manny Ogbeide"
 DESCRIPTION = """
 - ✔️Snr. Technical Product Manager \n
