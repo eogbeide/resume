@@ -91,7 +91,7 @@ st.subheader("Technical Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Alteryx
-- 📊 Data Visulization: Tableau, PowerBI, MS Excel, Plotly
+- 📊 Data Visualization: Tableau, PowerBI, MS Excel, Plotly
 - 📚 Modeling: Machine Learning (Logistic regression, linear regression, decision trees)
 - 🗄️ Databases: Postgres, MongoDB, MySQL
 """
@@ -100,7 +100,7 @@ st.write(
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Work History")
+st.subheader("Relevant Work History")
 st.write("---")
 
 # --- JOB 1
@@ -130,7 +130,7 @@ st.write(
 
 # --- JOB 3
 st.write('\n')
-st.write("🚧", "**Engineer | BHP Billiton Canada**")
+st.write("🚧", "**Program Engineer | BHP Billiton Canada**")
 st.write("North America Project Strategy and Development")
 st.write("05/2012 - 03/2015")
 st.write(
