@@ -9,7 +9,10 @@ current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir / "main.css"
 resume_file = current_dir / "CV.pdf"
 profile_pic = current_dir / "profile-pic.jpg"
-
+DESCRIPTION = """
+- ✔️Snr. Technical Product Manager \n
+- ✔️Helping enterprises to tackle complex, ambiguous and cross-functional business problems & delivering 5-10X value through product and process leadership.
+"""
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Manny Ogbeide"
@@ -17,7 +20,7 @@ PAGE_ICON = ":wave:"
 layout="wide"
 initial_sidebar_state="expanded"
 NAME = "Manny Ogbeide"
-DESCRIPTION = """
+#DESCRIPTION = """
 - ✔️Snr. Technical Product Manager \n
 - ✔️Helping enterprises to tackle complex, ambiguous and cross-functional business problems & delivering 5-10X value through product and process leadership.
 """
