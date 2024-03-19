@@ -67,7 +67,7 @@ st.write(
     """
 - ✔️ Mid-level professional
 - ✔️ Strong hands-on experience and knowledge of data engineering, business analytics and data story-telling
-- ✔️ Excellent background in supply chain, procurement and financial planning and analytics
+- ✔️ Excellent background in supply chain and financial planning and analytics
 - ✔️ Excellent results-oriented team-player
 - ✔️ Product and program leadership
 """
