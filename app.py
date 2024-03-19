@@ -65,7 +65,7 @@ st.write('\n')
 st.subheader("Experience & Qualifications")
 st.write(
     """
-- ✔️ Mid-level professional
+- ✔️ Mid-level professional (experience in consulting, cloud computing, energy and financial services industries)
 - ✔️ Strong hands-on experience and knowledge of data engineering, business analytics and data story-telling
 - ✔️ Excellent background in supply chain and financial planning and analytics
 - ✔️ Excellent results-oriented team-player
