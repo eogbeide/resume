@@ -100,7 +100,7 @@ st.write(
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Relevant Work History")
+st.subheader("Relevant Experience")
 st.write("---")
 
 # --- JOB 1
