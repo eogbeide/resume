@@ -67,7 +67,7 @@ st.write(
     """
 - ✔️ Mid-level professional
 - ✔️ Strong hands on experience and knowledge in data engineering, business analytics and data story-telling
-- ✔️ Excellent background in supply chain, procurement and finance planning and analytics
+- ✔️ Excellent background in supply chain, procurement and financial planning and analytics
 - ✔️ Excellent results-oriented team-player
 - ✔️ Product and program leadership
 """
@@ -109,7 +109,7 @@ st.write("11/2022 - Present")
 st.write(
     """
 - ► Lead AI hands-off-the-wheel planning product strategy and delivery across Amazon worldwide businesses
-- ► Lead three-year product strategy and annual planning and product roadmap for Amazon Finance Science team
+- ► Lead the team's three-year product strategy and annual planning and product roadmap for Amazon Finance Science team
 - ► Lead Amazon Forecasting Lab initiative for worldwide Finance organization
 """
 )
