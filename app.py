@@ -62,7 +62,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Experience & Qualifications")
 st.write(
     """
 - ✔️ Mid-level professional
@@ -75,7 +75,7 @@ st.write(
 
 # --- EDUCATIONAL BACKGROUND ---
 st.write('\n')
-st.subheader("Qulifications")
+st.subheader("Qualifications")
 st.write(
     """
 - ✔️ Accelerated Executive Management, Yale School of Management, CT., United States.
