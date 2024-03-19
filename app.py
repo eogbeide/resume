@@ -12,21 +12,19 @@ profile_pic = current_dir / "profile-pic.jpg"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | Manny Ogbeide",
-PAGE_ICON = ":wave:",
-page_icon="🧊",
-NAME = "Emmanuel Ogbeide",
+PAGE_TITLE = "Digital CV | Manny Ogbeide"
+PAGE_ICON = ":wave:"
+page_icon="🧊"
+NAME = "Emmanuel Ogbeide"
 DESCRIPTION = """
 Snr. Technical Product Manager \n
 Helping enterprises to tackle complex, ambiguous and cross-functional business problems & delivering 5-10X value through product and process leadership.
-""",
-EMAIL = "eogbeide@asu.edu",
+"""
+EMAIL = "eogbeide@asu.edu"
 
 SOCIAL_MEDIA = {
-    #"YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://www.linkedin.com/in/emmanuelogbeide/",
     "GitHub": "https://github.com/eogbeide"}
-    #"Twitter": "https://twitter.com"}
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
