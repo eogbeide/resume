@@ -13,7 +13,7 @@ profile_pic = current_dir / "profile-pic.jpg"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Manny Ogbeide"
-PAGE_ICON = ":wave:"
+PAGE_ICON = ":wave:"vv
 page_icon="🧊"
 NAME = "Emmanuel Ogbeide"
 DESCRIPTION = """
