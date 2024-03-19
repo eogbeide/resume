@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Manny Ogbeide"
 PAGE_ICON = ":wave:"
 NAME = "Emmanuel Ogbeide"
 DESCRIPTION = """
-Senior Technical Product Manager, assisting enterprises by developing, deploying and shipping products.
+Snr. Technical Product Manager, assisting enterprises by developing, deploying and shipping products.
 """
 EMAIL = "eogbeide@asu.edu"
 SOCIAL_MEDIA = {
@@ -104,11 +104,12 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Senior Technical Product Manager | Amazon**")
+st.write("🚧", "**Snr. Technical Product Manager | Amazon**")
+st.write("Worldwide Science Product Team")
 st.write("11/2022 - Present")
 st.write(
     """
-- ► Lead AI hands-off-the-wheel planning product strategy and delivery across Amazon worldwide businesses
+- ► Lead AI/ML hands-off-the-wheel planning product strategy and delivery across Amazon worldwide businesses
 - ► Lead the team's three-year product strategy and annual planning and product roadmap for Amazon Finance Science team
 - ► Lead Amazon Forecasting Lab initiative for worldwide Finance organization
 """
@@ -117,6 +118,7 @@ st.write(
 # --- JOB 2
 st.write('\n')
 st.write("🚧", "**Manager, Finance and Supply Chain/Procurement Planning & Analytics | Amazon Web Services**")
+st.write("AWS Infrastructure Supply Chain, Procurement and Finance")
 st.write("06/2019 - 11/2022")
 st.write(
     """
@@ -129,6 +131,7 @@ st.write(
 # --- JOB 3
 st.write('\n')
 st.write("🚧", "**Engineer | BHP Billiton Canada**")
+st.write("North America Project Strategy and Development")
 st.write("05/2012 - 03/2015")
 st.write(
     """
