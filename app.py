@@ -91,8 +91,8 @@ st.subheader("Technical Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Alteryx
-- 📊 Data Visulization: Tableau, PowerBi, MS Excel, Plotly
-- 📚 Modeling: Machine Learning (Logistic regression, linear regression, decition trees etcetera)
+- 📊 Data Visulization: Tableau, PowerBI, MS Excel, Plotly
+- 📚 Modeling: Machine Learning (Logistic regression, linear regression, decision trees etcetera)
 - 🗄️ Databases: Postgres, MongoDB, MySQL
 """
 )
