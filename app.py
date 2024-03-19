@@ -23,7 +23,7 @@ SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com",
     "GitHub": "https://github.com",
-    "Twitter": "https://twitter.com",
+    "Twitter": "https://twitter.com"}
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
