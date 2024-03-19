@@ -135,7 +135,7 @@ st.write("North America Project Strategy and Development")
 st.write("05/2012 - 03/2015")
 st.write(
     """
-- ► Led the delivery of three green field exploration and delivery projects for BHP Billiton Jansen multi-billion dollars project.
+- ► Supported the delivery of three green field exploration and delivery projects for BHP Billiton Jansen multi-billion dollars project.
 - ► Owned capacity planning for Jansen assumption modeling for emerging markets (India, Brazil and China)
 - ► Supported definition studies and operations readiness for new production facilities and delivered the risk and safety management plans and contract management strategy.
 """
