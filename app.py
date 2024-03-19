@@ -117,7 +117,7 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🚧", "**Manager, Finance and Supply Chain/Procurement Planning & Analytics | Amazon Web Services**")
+st.write("🚧", "**Manager, Finance, Supply Chain and Procurement Planning & Analytics | Amazon Web Services**")
 st.write("AWS Infrastructure Supply Chain, Procurement and Finance")
 st.write("06/2019 - 11/2022")
 st.write(
