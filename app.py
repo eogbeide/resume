@@ -23,7 +23,7 @@ DESCRIPTION = """
 EMAIL = "eogbeide@asu.edu"
 
 SOCIAL_MEDIA = {
-    "Visit my LinkedIn": "https://www.linkedin.com/in/emmanuelogbeide/"}
+    "Visit Manny's LinkedIn Page": "https://www.linkedin.com/in/emmanuelogbeide/"}
  
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
