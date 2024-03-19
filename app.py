@@ -92,7 +92,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, Alteryx
 - 📊 Data Visulization: Tableau, PowerBI, MS Excel, Plotly
-- 📚 Modeling: Machine Learning (Logistic regression, linear regression, decision trees etcetera)
+- 📚 Modeling: Machine Learning (Logistic regression, linear regression, decision trees)
 - 🗄️ Databases: Postgres, MongoDB, MySQL
 """
 )
