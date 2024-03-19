@@ -19,7 +19,7 @@ NAME = "Emmanuel Ogbeide"
 DESCRIPTION = """
 Snr. Technical Product Manager \n
 Helping enterprises to tackle complex, ambiguous and cross-functional business problems & delivering 5-10X value through product and process leadership.
-""",
+"""
 EMAIL = "eogbeide@asu.edu"
 
 SOCIAL_MEDIA = {
