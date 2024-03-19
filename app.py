@@ -73,6 +73,17 @@ st.write(
 """
 )
 
+# --- EDUCATIONAL BACKGROUND ---
+st.write('\n')
+st.subheader("Qulifications")
+st.write(
+    """
+- ✔️ Accelerated Executive Management, Yale School of Management, CT., United States.
+- ✔️ MBA, Arizona State University, Tempe, AZ, United States.
+- ✔️ M.Sc., Process Engineering, University of Nottingham, Nottingham, England, United Kingdom.
+- ✔️ B.Sc(Hons), Applied Sciences (Dean's List, 2nd Best Graduating Student)
+"""
+)
 
 # --- SKILLS ---
 st.write('\n')
