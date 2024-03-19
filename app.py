@@ -101,8 +101,7 @@ st.write(
 # --- WORK HISTORY ---
 st.write('\n')
 st.subheader("Relevant Experience")
-st.write("---")
-
+#st.write("---")
 # --- JOB 1
 st.write("🚧", "**Snr. Technical Product Manager | Amazon**")
 st.write("Worldwide Science Product Team")
