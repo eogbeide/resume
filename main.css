@@ -25,3 +25,17 @@ hr {
 #MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 header {visibility: hidden;}
+
+
+.container {
+  border: 2px solid #ccc;
+  padding: 10px;
+  width: 20em;
+}
+
+.item {
+  width: fit-content;
+  background-color: #8ca0ff;
+  padding: 5px;
+  margin-bottom: 1em;
+}
