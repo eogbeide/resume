@@ -11,6 +11,7 @@ resume_file = current_dir / "CV.pdf"
 profile_pic = current_dir / "profile-pic.jpg"
 
 # --- GENERAL SETTINGS ---
+st.set_page_config(layout="wide")
 PAGE_TITLE = "Digital CV | Manny Ogbeide"
 PAGE_ICON = ":wave:"
 layout="wide"
