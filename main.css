@@ -26,16 +26,11 @@ hr {
 footer {visibility: hidden;}
 header {visibility: hidden;}
 
-
-.container {
-  border: 2px solid #ccc;
-  padding: 10px;
-  width: 20em;
-}
-
-.item {
+.box {
   width: fit-content;
-  background-color: #8ca0ff;
-  padding: 5px;
-  margin-bottom: 1em;
+
+  /* ... is the same as ... */
+  #width: auto;
+  #min-width: min-content;
+  max-width: max-content;
 }
