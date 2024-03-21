@@ -18,19 +18,11 @@ a:hover {
 ul {list-style-type: none;}
 
 hr {
-    margin-top: 0px;
+    margin-top: 5px;
     margin-bottom: 5%;
 }
 
-#MainMenu {visibility: hidden;}
+MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 header {visibility: hidden;}
 
-.box {
-  width: fit-content;
-
-  /* ... is the same as ... */
-  #width: auto;
-  #min-width: min-content;
-  max-width: max-content;
-}
